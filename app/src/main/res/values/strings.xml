@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="task_title_input">Write Task Title</string>
+    <string name="task_description_hint">Write Task Description</string>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+</resources>
